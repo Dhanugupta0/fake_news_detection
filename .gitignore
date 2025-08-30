@@ -1,0 +1,13 @@
+# Ignore virtual environments
+liar_env/
+venv/
+
+# Ignore dataset files
+*.tsv
+*.csv
+*.xlsx
+*.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
